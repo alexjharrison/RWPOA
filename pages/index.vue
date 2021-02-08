@@ -1,11 +1,11 @@
 <template>
-  <div class="container">
+  <b-conatiner fluid="xl">
     <h1 class="my-3">{{ page.title }}</h1>
     <p>{{ page.description }}</p>
     <hr />
 
     <nuxt-content :document="page" class="mb-4" />
-  </div>
+  </b-conatiner>
 </template>
 
 <script>

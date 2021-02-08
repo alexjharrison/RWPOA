@@ -1,10 +1,10 @@
 <template>
   <div>
     <app-header />
-    <div class="row container mx-auto">
-      <sidebar class="col-md-3 col-6 min-h-100" />
+    <b-container fluid="xl" class="row mx-auto">
+      <sidebar class="col-md-3 col-sm-4 col-12 min-h-100" />
       <Nuxt class="col border-left" />
-    </div>
+    </b-container>
     <app-footer />
   </div>
 </template>
@@ -18,3 +18,10 @@ export default {
   components: { Sidebar, AppHeader, AppFooter },
 }
 </script>
+
+<style>
+.sticky {
+  position: sticky;
+  top: 10px;
+}
+</style>

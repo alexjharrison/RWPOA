@@ -1,11 +1,11 @@
 <template>
   <div>
     <b-navbar type="dark" variant="info">
-      <div class="container">
+      <b-container fluid="xl">
         <b-navbar-brand href="/"
           >Rolling Woods Property Owners Association</b-navbar-brand
         >
-      </div>
+      </b-container>
     </b-navbar>
   </div>
 </template>
