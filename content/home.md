@@ -1,6 +1,21 @@
 ---
 title: RWPOA Website
 description: 'Keep up to date with the latest RWPOA news'
+sidebarLinks:
+  - url: https://1drv.ms/u/s!Ai8SkDe9Zdb5gsgWfW7V963ca5eQQQ?e=degTzi
+    text: Annual Budget
+  - url: https://1drv.ms/u/s!Ai8SkDe9Zdb5gsgXyjBmpF05w2_d_g?e=wZYrNI
+    text: Annual Mailings
+  - url: https://1drv.ms/u/s!Ai8SkDe9Zdb5gsgYXUH7GjA2l166-A?e=Cil9oQ
+    text: Annual Meeting Notes
+  - url: https://1drv.ms/u/s!Ai8SkDe9Zdb5gsgVj5eJcQ62oexfDA?e=T8mRbI
+    text: Board Meeting Notes
+  - url: https://1drv.ms/u/s!Ai8SkDe9Zdb5gsgbuVfSymQ5neQsZA?e=XhY2mp
+    text: Board of Directors
+  - url: https://1drv.ms/u/s!Ai8SkDe9Zdb5gsgaCJIiwlIWzHpcvA?e=SWzTrP
+    text: Bylaws & Convenants
+  - url: https://1drv.ms/u/s!Ai8SkDe9Zdb5gsgZCprRNGW-h9zt9A?e=Uh6ONY
+    text: Dock Map
 ---
 
 This site has been established to facilitate communications among the board and membership of the Rolling Woods Property Owners Association.
