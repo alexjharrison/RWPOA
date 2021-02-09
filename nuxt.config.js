@@ -29,7 +29,7 @@ export default {
   plugins: [],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
-  components: true,
+  components: false,
 
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
   buildModules: [
@@ -51,9 +51,17 @@ export default {
     '@nuxt/content',
   ],
 
+  bootstrapVue: {
+    // bootstrapCSS: false, // Or `css: false`
+    // bootstrapVueCSS: false, // Or `bvCSS: false`,
+    components: ['BContainer', 'BImg', 'BNavbar', 'BNavbarBrand'],
+  },
+
   // Content module configuration (https://go.nuxtjs.dev/config-content)
   content: {},
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
-  build: {},
+  build: {
+    analyze: true,
+  },
 }

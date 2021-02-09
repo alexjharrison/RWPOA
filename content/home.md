@@ -27,7 +27,7 @@ As you are aware, the RWPOA has allowed for late payment of dues as a results of
 
 ---
 
-### Sent to Membership August 5, 2020
+## Sent to Membership August 5, 2020
 
 The purpose of this note is to bring the full membership of the RWPOA up to speed on the selection of a new president. This document does not bring up any new information and is consistent with communications within the Board over recent months.
 The presidency has been vacant since May when Stacy’s term expired. In anticipation of that, the Board had a meeting on Jan 25 to discuss a path forward. A further meeting was scheduled in April to finalize nominations followed by an election in May at the Annual Membership Meeting. Then the Coronavirus appeared and the Board had to navigate the Covid-19 landscape with the restrictions on meetings and assemblies.
@@ -52,7 +52,7 @@ I hope this meets your needs. Please call me (703-795-5860) or any other Board m
 
 ---
 
-### Sent to Membership July 15, 2020
+## Sent to Membership July 15, 2020
 
 As many of you know, Stacy Ramsey is planning to retire as president of the Rolling Woods Property Owners Association. The Board has continued in operation through the Covid-19 crisis and, after much discussion, has concluded that an effective successor would be current Board Member, Mark Townley. He would succeed Stacy in a timely manner and pick up Stacy’s role in the organization. Mark has been very active and has contributed many hours to the RWPOA projects over the last couple of years.
 
@@ -62,9 +62,8 @@ We realize that Stacy’s role will be very difficult to replace. He has done a 
 
 Pete Barry has organized a volunteer corps to complete as many of Stacy’s work roles as possible. If you wish to volunteer, please contact Pete (571-451-5135) or Doug (703-795-5860). Mark has always been a leading member of the neighborhood volunteers. Joan and Doug Harrison will stay on in their roles as Treasurer and Secretary. The rest of the Board, consisting of Vice President Bob Bodenstein, David Loving. Terry Thornton, and Kyle Bennett will also continue in their roles. We will be needing another volunteer to replace Mark on the Board.
 
-### Doug Harrison
-
-##### Secretary RWPOA
+**Doug Harrison**\
+Secretary RWPOA
 
 ---
 
@@ -91,6 +90,5 @@ To learn more, please go to VDH's [HAB Map](https://www.lakeannavirginia.org/Ema
 
 Regards,
 
-### Greg Baker
-
-#### President
+**Greg Baker**\
+President

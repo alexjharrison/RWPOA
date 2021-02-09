@@ -24,4 +24,9 @@ export default {
   position: sticky;
   top: 10px;
 }
+
+a {
+  color: #212529;
+  font-weight: 600;
+}
 </style>
