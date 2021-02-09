@@ -4,11 +4,20 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'RWPOA',
+    title: 'Rolling Woods Property Owners Association',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Keep up to date with the latest RWPOA news',
+      },
+      {
+        hid: 'image',
+        name: 'image',
+        content: 'https://rwpoa.org/lake.jpg',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
@@ -26,7 +35,13 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
+    '@nuxtjs/pwa',
+    '@nuxtjs/google-analytics',
   ],
+
+  googleAnalytics: {
+    id: 'G-TBDJJXRXS4',
+  },
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
