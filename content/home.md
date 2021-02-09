@@ -6,7 +6,7 @@ description: 'Keep up to date with the latest RWPOA news'
 This site has been established to facilitate communications among the board and membership of the Rolling Woods Property Owners Association.
 All Association announcements will be posted here.
 Meeting Notes for Board and General Membership meetings will also be posted.
-Send suggested changes or new posts to Doug Harrison at Haphar@gmail.com
+Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 
 As you are aware, the RWPOA has allowed for late payment of dues as a results of hardhips incurred by members during the Covid-19 crisis. Despite incomplete information on expected receipts, the Treasurer has prepared an interim budget which is posted below.
 
