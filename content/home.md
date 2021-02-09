@@ -1,6 +1,6 @@
 ---
 title: RWPOA Website
-description: 'Keep up to date with the laste RWPOA news'
+description: 'Keep up to date with the latest RWPOA news'
 ---
 
 This site has been established to facilitate communications among the board and membership of the Rolling Woods Property Owners Association.
