@@ -1,7 +1,7 @@
 <template>
   <aside>
     <div class="sticky">
-      <h2><u>Documents</u></h2>
+      <h2 class="mt-3"><u>Documents</u></h2>
       <ul class="pl-0">
         <li v-for="link in links" :key="link.url">
           <a target="_blank" rel="noopener" :href="link.url">{{ link.text }}</a>
