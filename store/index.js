@@ -1,4 +1,4 @@
-export const data = () => ({ page: null })
+export const store = () => ({ page: null })
 
 export const mutations = {
   updatePage(state, pageData) {
