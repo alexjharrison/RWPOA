@@ -25,17 +25,17 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 
 
 ---
-             Rolling Woods Property Owner’s Association
-                    P.O. Box 661
-                  Orange, Virginia  22960
-         
-                 NEW!  Website:  rwpoa.org
+> **Rolling Woods Property Owner’s Association**\
+> P.O. Box 661\
+> Orange, Virginia  22960
+>       
+> NEW!  Website:  [rwpoa.org](https://rwpoa.org)
 
 ---
-###     March 1, 2021
+## March 1, 2021
 
 
-                              REQUEST FOR BALLOT
+### REQUEST FOR BALLOT
 
 To:  RWPOA Members
 
@@ -49,18 +49,20 @@ In closing, we know that Covid-19 has presented its challenges. Rest assured tha
 
 Please return your 3 page ballot to: RWPOA, PO Box 661, Orange, Va. 22960 and write “Ballot” in the lower, left hand corner of the envelope.  Thank you!
 
-Mark Townley
+**Mark Townley**\
 President, RWPOA
 
 ---
-###                                                       Ballot
+### Ballot
 
 WRITTEN CONSENT TO (RATIFICATION OF) AMENDMENT TO DECLARATION 
 
 I (We)signature/s___________________________________________________ owner/s of lot/s___________ date ____________in  Rolling Woods Subdivision, Spotsylvania County, Virginia and I(We) hereby consent to amend (make changes to) the recorded Deed of Dedication, Restriction and Easement for Rolling Woods Subdivision, dated March 23, 1987, as follows:
-___________________________________________________________________________________________________________
-SECTION 1:  RESTRICTIONS:  BUILDING TYPE AND LAND USE  					
-___________________________________________________________________________________________________________
+
+---
+
+### SECTION 1:  RESTRICTIONS:  BUILDING TYPE AND LAND USE  					
+
 The original provision states as follows:   								               		Yes/No
           [No structure shall be erected or altered to remain on any residential building lot other than one detached single-
  family dwelling, and a private garage for not more than three automobiles, which private garage may be attached
@@ -71,8 +73,10 @@ The amended provision states as follows:
  family dwelling and a private garage for not more than four automobiles, which private garage may be attached to a
 and a part of the dwelling house or may be a separate free-standing structure. . .]
 
-Vote Yes or No 
-_____________________________________________________________________________________________________________ 
+**Vote Yes or No**
+
+---
+
 The original provision states as follows:								               		 Yes/No
      [There shall be allowed one utility shed on any residential building lot, provided, however, that such shed not be a metal 
 shed, and provided, further, that such shed’s exterior must conform to that of the dwelling house.]
@@ -84,10 +88,12 @@ containers that can moved manually by one or two persons as utility sheds.  Up t
 may be located upon any lot, provided that they complement the dwelling house, and that they comply with 
 Spotsylvania County building and/or zoning ordinances.]
 	
-Vote Yes or No   
-____________________________________________________________________________________________________________
-2. FENCES AND FIREWOOD 
-____________________________________________________________________________________________________________
+**Vote Yes or No**
+
+---
+
+### 2. FENCES AND FIREWOOD 
+
 Original Provision as stated:							                                              		  Yes/No
      [Except as provided hereinafter no fences shall be permitted on any residential building lots. There shall be allowed a 
 split  rail fence of no more than three (3) rails.  Where a private swimming pool is constructed on any lot, a privacy fence, 
@@ -99,10 +105,12 @@ Proposed Provision as stated:
     [Chain link or barbed wire fences are forbidden.  The chain link prohibition herein does not apply to prefabricated dog enclosures for the containment of pet dogs.  Privacy fences shall not exceed six (6) feet in height unless required by state 
 or county regulation.  Split firewood must be stacked.]
 
-Vote Yes or No        
-____________________________________________________________________________________________________________											
-3.    LAND USE
-____________________________________________________________________________________________________________
+**Vote Yes or No**   
+
+---
+
+### 3.    LAND USE
+
 Original Provision as stated:											  Yes/No
      [No lot within the subdivision shall be used except for residential purposes. No trade or business of any kind or character 
 nor the practice of any profession, nor any building structure designed or intended for any purpose connected with any trade,
@@ -114,10 +122,12 @@ business, or profession, shall be permitted upon any lot.  Nothing herein shall 
 Spotsylvania County law that is conducted within a home office or studio or prevent any lot owner from renting or leasing
 any house constructed upon the lot either on a weekly, monthly, or yearly basis.]
 
-Vote Yes or No
-__________________________________________________________________________________________________					
-5.  UPKEEP
-__________________________________________________________________________________________________________
+**Vote Yes or No**
+
+---
+
+### 5.  UPKEEP
+
 Original provision as stated:									                	 Yes/No
       [ Owners of lots in said subdivision, whether said lots be built upon or not, shall keep their lots free of weeds, 
 undergrowth, garbage, and unsightly debris and litter.]
@@ -126,10 +136,12 @@ Proposed provision as stated:
      [Owners of lots in said subdivision, whether the lots be built upon or not, shall keep their lots free of garbage, unsightly 
 debris, and litter.]
 
-Vote Yes or No 
-___________________________________________________________________________________________________________
-8.  NUISANCES, JUNK VEHICLES, ETC.
-____________________________________________________________________________________________________________
+**Vote Yes or No**
+
+---
+
+### 8.  NUISANCES, JUNK VEHICLES, ETC.
+
 Original provision as stated:											  Yes/No
       [No noxious or offensive activity shall be carried on upon any lot, nor shall anything be done therein which may be or be-       
 come an annoyance or nuisance to the neighborhood.  No trash or garbage shall be permitted to be burned on any lot.  This 
@@ -148,10 +160,12 @@ burning is used as a means o f maintaining the developed lot or cleaning the lot
 and/or security cameras designed to protect individual lots shall be positioned in a manner that serves to illuminate 
 and/or record and monitor only said lot.]
 
-Vote Yes/No		
-___________________________________________________________________________________________________________							
-10. LIVESTOCK AND POULTRY
-____________________________________________________________________________________________________________
+**Vote Yes/No**		
+
+---
+
+### 10. LIVESTOCK AND POULTRY
+
 Original Provision as stated:											  Yes/No
       [No swine, cows, horses, goats, chickens, roosters, turkeys, geese, ducks, nor any other type of poultry or fowl, and no commercial livestock or poultry project shall be maintained within said subdivision, nor shall any dog pens, kennels or other
  such projects involving the rearing, handling or care and maintenance of animals in numbers be conducted or maintained
@@ -173,10 +187,12 @@ enclosure for no more than 4 dogs, one rabbit hutch for not more than 2 rabbits,
 no more than 8 hens.  Hens shall not be free roaming, nor shall roosters be permitted on any lot. No animal shall be 
 allowed to remain within the subdivision, except during such time or times as the owner of the lot is present, or the pets are otherwise provided for.]
 
-VOTE YES/NO  
-____________________________________________________________________________________________________________     
-11.  SIGNS
-____________________________________________________________________________________________________________
+**VOTE YES/NO** 
+
+---
+
+### 11.  SIGNS
+
 Original Provision as stated											  Yes/No
       [No signs of any kind shall be displayed to the public view on any lot except one sign, meeting the Spotsylvania County 
 regulations for such signs, advertising the property for sale.  Provided, however, that on a waterfront lot, if permitted by 
@@ -190,14 +206,12 @@ Spotsylvania County regulations for such signs, advertising the property for sal
  be allowed at any one time, one sign on the lot adjacent to the adjoining road, and one sign on the waterfront side of said
  lot.]
 
-Vote Yes or No  
-____________________________________________________________________________________________________________
-			            	3
+**Vote Yes or No**
 
 			
 
 ---
-   ## Sent to Membership August 5, 2020
+## Sent to Membership August 5, 2020
 
 The purpose of this note is to bring the full membership of the RWPOA up to speed on the selection of a new president. This document does not bring up any new information and is consistent with communications within the Board over recent months.
 The presidency has been vacant since May when Stacy’s term expired. In anticipation of that, the Board had a meeting on Jan 25 to discuss a path forward. A further meeting was scheduled in April to finalize nominations followed by an election in May at the Annual Membership Meeting. Then the Coronavirus appeared and the Board had to navigate the Covid-19 landscape with the restrictions on meetings and assemblies.
