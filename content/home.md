@@ -28,8 +28,6 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 > **Rolling Woods Property Owner’s Association**\
 > P.O. Box 661\
 > Orange, Virginia  22960
->       
-> NEW!  Website:  [rwpoa.org](https://rwpoa.org)
 
 ---
 ## March 1, 2021
