@@ -63,12 +63,12 @@ I (We)signature/s___________________________________________________ owner/s of 
 
 The original provision states as follows:   								               		Yes/No
           [No structure shall be erected or altered to remain on any residential building lot other than one detached single-
- family dwelling, and a private garage for not more than three automobiles, which private garage may be attached
+ family dwelling, and a private garage for not more than *__three__* automobiles, which private garage may be attached
  to and a part of the dwelling house or may be a separate free-standing structure. . .] 
 
 The amended provision states as follows:
      [No structure shall be erected or altered to remain on any residential building lot other than one detached single
- family dwelling and a private garage for not more than four automobiles, which private garage may be attached to a
+ family dwelling and a private garage for not more than *__four__* automobiles, which private garage may be attached to a
 and a part of the dwelling house or may be a separate free-standing structure. . .]
 
 **Vote Yes or No**
@@ -76,11 +76,11 @@ and a part of the dwelling house or may be a separate free-standing structure. .
 ---
 
 The original provision states as follows:								               		 Yes/No
-     [There shall be allowed one utility shed on any residential building lot, provided, however, that such shed not be a metal 
+     [There shall be allowed *__one_* utility shed on any residential building lot, provided, however, that such shed not be a metal 
 shed, and provided, further, that such shed’s exterior must conform to that of the dwelling house.]
 
 The amended provision states as follows:
-     [There shall be allowed two utility sheds on any residential building lot, provided, further, that such shed’s exterior(s) 
+     [There shall be allowed *__two__* utility sheds on any residential building lot, provided, further, that such shed’s exterior(s) 
 complement (s) the dwelling house. This provision shall not be construed to define deck boxes and small storage
 containers that can moved manually by one or two persons as utility sheds.  Up to two metal carports 
 may be located upon any lot, provided that they complement the dwelling house, and that they comply with 
