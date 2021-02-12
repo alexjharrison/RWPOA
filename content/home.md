@@ -76,7 +76,7 @@ and a part of the dwelling house or may be a separate free-standing structure. .
 ---
 
 The original provision states as follows:								               		 Yes/No
-     [There shall be allowed *__one_* utility shed on any residential building lot, provided, however, that such shed not be a metal 
+     [There shall be allowed *__one__* utility shed on any residential building lot, provided, however, that such shed not be a metal 
 shed, and provided, further, that such shed’s exterior must conform to that of the dwelling house.]
 
 The amended provision states as follows:
