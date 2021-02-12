@@ -61,7 +61,7 @@ I (We)signature/s___________________________________________________ owner/s of 
 
 ### SECTION 1:  RESTRICTIONS:  BUILDING TYPE AND LAND USE  					
 
-The original provision states as follows:   								               		Yes/No
+The original provision states as follows:   								               		
           [No structure shall be erected or altered to remain on any residential building lot other than one detached single-
  family dwelling, and a private garage for not more than *__three__* automobiles, which private garage may be attached
  to and a part of the dwelling house or may be a separate free-standing structure. . .] 
@@ -75,7 +75,7 @@ and a part of the dwelling house or may be a separate free-standing structure. .
 
 ---
 
-The original provision states as follows:								               		 Yes/No
+The original provision states as follows:								               		 
      [There shall be allowed *__one__* utility shed on any residential building lot, provided, however, that such shed not be a metal 
 shed, and provided, further, that such shed’s exterior must conform to that of the dwelling house.]
 
@@ -92,7 +92,7 @@ Spotsylvania County building and/or zoning ordinances.]
 
 ### 2. FENCES AND FIREWOOD 
 
-Original Provision as stated:							                                              		  Yes/No
+Original Provision as stated:							                                              		  
      [Except as provided hereinafter no fences shall be permitted on any residential building lots. There shall be allowed a 
 split  rail fence of no more than three (3) rails.  Where a private swimming pool is constructed on any lot, a privacy fence, 
 not to exceed five (5) feet in height, around the perimeter of the pool shall be permitted, unless a greater height is required
@@ -109,7 +109,7 @@ or county regulation.  Split firewood must be stacked.]
 
 ### 3.    LAND USE
 
-Original Provision as stated:											  Yes/No
+Original Provision as stated:											  
      [No lot within the subdivision shall be used except for residential purposes. No trade or business of any kind or character 
 nor the practice of any profession, nor any building structure designed or intended for any purpose connected with any trade,
 business, or profession, shall be permitted upon any lot.  Nothing herein shall be construed to prevent any lot owner from        renting or leasing any house constructed upon the lot either on a weekly, monthly, or yearly basis.
@@ -126,7 +126,7 @@ any house constructed upon the lot either on a weekly, monthly, or yearly basis.
 
 ### 5.  UPKEEP
 
-Original provision as stated:									                	 Yes/No
+Original provision as stated:									                	 
       [ Owners of lots in said subdivision, whether said lots be built upon or not, shall keep their lots free of weeds, 
 undergrowth, garbage, and unsightly debris and litter.]
  
@@ -140,7 +140,7 @@ debris, and litter.]
 
 ### 8.  NUISANCES, JUNK VEHICLES, ETC.
 
-Original provision as stated:											  Yes/No
+Original provision as stated:											  
       [No noxious or offensive activity shall be carried on upon any lot, nor shall anything be done therein which may be or be-       
 come an annoyance or nuisance to the neighborhood.  No trash or garbage shall be permitted to be burned on any lot.  This 
 shall not be construed to prevent the DECLARANT or owner of any lot from burning brush on said lot where such burning is 
@@ -164,7 +164,7 @@ and/or record and monitor only said lot.]
 
 ### 10. LIVESTOCK AND POULTRY
 
-Original Provision as stated:											  Yes/No
+Original Provision as stated:											  
       [No swine, cows, horses, goats, chickens, roosters, turkeys, geese, ducks, nor any other type of poultry or fowl, and no commercial livestock or poultry project shall be maintained within said subdivision, nor shall any dog pens, kennels or other
  such projects involving the rearing, handling or care and maintenance of animals in numbers be conducted or maintained
  within the subdivision.  
@@ -191,7 +191,7 @@ allowed to remain within the subdivision, except during such time or times as th
 
 ### 11.  SIGNS
 
-Original Provision as stated											  Yes/No
+Original Provision as stated											  
       [No signs of any kind shall be displayed to the public view on any lot except one sign, meeting the Spotsylvania County 
 regulations for such signs, advertising the property for sale.  Provided, however, that on a waterfront lot, if permitted by 
 the Spotsylvania County regulations then in effect, two such signs advertising the property for sale shall be allowed at any 
