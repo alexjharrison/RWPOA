@@ -37,15 +37,15 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 
 To:  RWPOA Members
 
-As you know, we have been working for quite a while to revise our covenants due to outdated material and the desire of many members to change some of the provisions within the document.  We have finally been able to put together a ballot following the advice of our attorney.   As you know, while former Secretary, Doug Harrison, posted on our old website those concerns, compiled those together, and came up with a rough draft for a new covenants document. 
+As you know, we have been working for quite a while to revise our covenants due to outdated material and the desire of many members to change some of the provisions within the document.  We have finally been able to put together a ballot following the advice of our attorney.   As you know, former Secretary, Doug Harrison, posted on our old website those concerns, compiled those together, and came up with a rough draft for a new covenants document. 
 
  We have been in conference with our attorney and, upon further examination, have learned that because of state and local Association laws and practices, there are some clauses that, while we may view them as outdated (such as references to the private roads),  we may not delete without inadvertently nullifying the Homeowners Association altogether.  However, it is permissible by law to write an amendment to some of the rules within the document, such as fence styles, number of sheds, dogs, etc. With this in mind, we have made every effort to include the input we have received from members on our ballot for a vote.   
 
-The ballot is the next step within the legal process to make amendments, and a response from everyone is necessary in order to make the changes.  We have designed it so that the original clause, as you have in your files, is presented first, under “Original provision as stated”, and then the changed version, “Proposed provision as stated”.  This is a line-by-line ballot, so some provisions might pass while others do not.  Once we tally the votes for each new provision, the board will determine if it is financially responsible to proceed with the amendments.  As some or all of these proposed changes could affect you personally, it is heartily advised that you insure that your voice is heard.
+The ballot is the next step within the legal process to make amendments, and a response from everyone is necessary in order to make the changes.  We have designed it so that the original clause, as you have in your files, is presented first, under “Original provision as stated”, and then the changed version, “Proposed provision as stated”.  This is a line-by-line ballot, so some provisions might pass while others might not.  Once we tally the votes for each new provision, the board will determine if it is financially responsible to proceed with the amendments.  As some or all of these proposed changes could affect you personally, it is heartily advised that you insure that your voice is heard.
 
 In closing, we know that Covid-19 has presented its challenges. Rest assured that we have been working behind the scenes to accomplish many of the objectives we have set out to do prior to the pandemic and will continue to do so in service to all of our members.  Stay safe, everyone.
 
-Please return your 3 page ballot to: RWPOA, PO Box 661, Orange, Va. 22960 and write “Ballot” in the lower, left hand corner of the envelope.  Thank you!
+Please return your ballot to: RWPOA, PO Box 661, Orange, Va. 22960 and write “Ballot” in the lower, left hand corner of the envelope.  Thank you!
 
 **Mark Townley**\
 President, RWPOA
