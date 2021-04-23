@@ -55,7 +55,7 @@ President, RWPOA
 
 WRITTEN CONSENT TO (RATIFICATION OF) AMENDMENT TO DECLARATION 
 
-I (We)signature/s___________________________________________________ owner/s of lot/s___________ date ____________in  Rolling Woods Subdivision, Spotsylvania County, Virginia and I(We) hereby consent to amend (make changes to) the recorded Deed of Dedication, Restriction and Easement for Rolling Woods Subdivision, dated March 23, 1987, as follows:
+I (We)signature/s______________ owner/s of lot/s___________ date ____________in  Rolling Woods Subdivision, Spotsylvania County, Virginia and I(We) hereby consent to amend (make changes to) the recorded Deed of Dedication, Restriction and Easement for Rolling Woods Subdivision, dated March 23, 1987, as follows:
 
 ---
 
