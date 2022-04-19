@@ -208,7 +208,8 @@ Spotsylvania County regulations for such signs, advertising the property for sal
 
 			
 ---
-**March 26, 2022 Board Meeting**
+
+##March 26, 2022 Board Meeting##
 
 Most recent Board Meeting Notes are available in the the menu on the upper left side of this page.
 Please review the Meeting Notes see the actions taken at the last meeting.
