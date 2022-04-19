@@ -207,12 +207,8 @@ Spotsylvania County regulations for such signs, advertising the property for sal
 **Vote Yes or No**
 
 			
-
----
 ---
 Most recent Board Meeting Notes are available in the the menu on the upper left side of this page.
----
-
 Please review the Meeting Notes see the actions taken at the last meeting.
 
 We remind all property owners that clearing blockage from the ditches along the roads is the responsibility of the property owners not the mowing contractor. When he reaches a point in the mowing area that's filled with debris he is allowed to bypass the area.
