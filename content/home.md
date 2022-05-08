@@ -30,7 +30,7 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 > Orange, Virginia  22960
 
 ---
-## May 7, 2022
+## May 14, 2022
 RWPOA ANNUAL MEETING
 Agenda
 
