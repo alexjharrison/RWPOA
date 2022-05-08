@@ -30,6 +30,35 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 > Orange, Virginia  22960
 
 ---
+## May 7, 2022
+RWPOA ANNUAL MEETING
+Agenda
+
+May 7th 2022 11am. 
+Common Area 
+•	Call meeting to order: Introductions
+•	Treasurer Report - Joan Harrison
+•	Elections: Terry Thornton -  Conducts the Elections
+                 Vice President -  Cathy Hillyard
+                  Treasurer - Joan Harrison
+                  Secretary - Doug Harrison
+                  Board Member 3 Open Positions
+
+CURRENT BUSSINESS
+
+1. Covenants Ballots: 48 Ballots received, need 66 yes votes to change anything.
+
+2. Docks and Common Area: Docks: Bad boards replaced and stained. Cleaned up around the dock area and benches repaired and stained. Roadway will be graded, and gravel added if needed. Replaced broken ladder.
+
+3. AIRB&B: The law in Virginia is simple. An AIRB&B is a residential home and meets our current covenants.
+                                                                    
+ 4. Mailbox Area: Big pine tree removed, replaced the bulletin board, and will replace roof before winter due to damage from January's winter storm.
+
+5. Buoys: Got new Buoys and will install them this month.
+
+New Business
+
+
 ## March 1, 2021
 
 
