@@ -31,11 +31,14 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 
 ---
 ## July 25, 2022
-RWPOA ANNUAL MEETING
-Notes
+
+July 31, 2022
+
+Board meeting proposed for Sept 10, 2022 More to follow.
 
 May 15th, 2022 11am
-
+RWPOA ANNUAL MEETING
+Notes
 President Loving called the meeting to order at 11:05. Attendance was less than normal because of the double postponement and the fact that the meeting was held on a Sunday. Fulle meeting notes are posted in the Annual Meeting Notes section.
 
 Board Elections
