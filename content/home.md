@@ -30,9 +30,7 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 > Orange, Virginia  22960
 
 ---
-## July 25, 2022
-
-September 10, 2022
+## September 10, 2022
 
  RWPOA Fall Board Meeting Agenda
 
