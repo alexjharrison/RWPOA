@@ -32,6 +32,62 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 ---
 ## July 25, 2022
 
+September 10, 2022
+
+ RWPOA Fall Board Meeting Agenda
+
+
+September 10th, 2022 10am
+
+
+The next Board Meeting is scheduled for Saturday September 10th at 9 Am in the Common Area.
+
+
+Board Membership
+
+•	Open Positions
+
+•	There are currently 7 Board members. The maximum is nine. We continue to solicit volunteers for the Board. 
+
+Treasurer’s Report 
+
+•	Joan  - Treasurer’s Report with the Budget for 2022-3. 
+•	Delinquencies (Hardships)
+•	Penalties
+•	Funds Available for Dock Maintenance, Mailboxes 
+
+Current Business
+
+1.	Covenants Ballots: 48 Ballots received, need 64 yes votes to change anything. 
+
+2.	Docks and Common Area: Docks: Status
+
+3.	Entrance Maintenance
+
+4.	Photovoltaic (solar cell) installation
+
+5.	AirB&B’s
+County restrictions
+Payments
+Desired outcome
+            
+6.	Mailbox Area
+
+7.	Buoys
+
+8.	Mowing
+
+9.	Cameras
+
+10.	 Drainage
+
+11.	 Trash Cans
+
+New Business
+
+Adjournment
+
+
 July 31, 2022
 
 Board meeting proposed for Sept 10, 2022 More to follow.
