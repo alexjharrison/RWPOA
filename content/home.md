@@ -30,12 +30,12 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 > Orange, Virginia  22960
 
 ---
-## September 10, 2022
+## October 1, 2022
 
  RWPOA Fall Board Meeting Agenda
 
 
-September 10th, 2022 10am
+October 1, 2022 10am
 
 
 The next Board Meeting is scheduled for Saturday September 10th at 9 Am in the Common Area.
