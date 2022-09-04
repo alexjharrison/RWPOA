@@ -38,7 +38,7 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 October 1, 2022 10am
 
 
-The next Board Meeting is scheduled for Saturday September 10th at 9 Am in the Common Area.
+The next Board Meeting is scheduled for Saturday October 1 at 10 AM in the Common Area.
 
 
 Board Membership
