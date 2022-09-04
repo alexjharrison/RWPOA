@@ -86,7 +86,7 @@ New Business
 Adjournment
 
 
-July 31, 2022
+## May 15, 2022
 
 Board meeting proposed for Sept 10, 2022 More to follow.
 
