@@ -31,59 +31,103 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 
 ---
 ## October 1, 2022
-
- RWPOA Fall Board Meeting Agenda
+RWPOA Fall Board Meeting Notes
 
 
 October 1, 2022 10am
 
 
-The next Board Meeting is scheduled for Saturday October 1 at 10 AM at 7309 Hidden Brook Road (Thornton House).
+The Board Meeting was held on Saturday October 1 at 10 AM. President David Loving presided. 
 
+Attendance
+•	The meeting was held (due to rain) at the house of Terry and Pam Thornton (7309 Hidden Brook Road). Many thanks to Terry and Pam for hosting.
+•	Six Board members and 8 additional members attended. See Attachment 1
 
 Board Membership
 
-•	Open Positions
-
 •	There are currently 7 Board members. The maximum is nine. We continue to solicit volunteers for the Board. 
+•	No volunteers came forward 
 
 Treasurer’s Report 
 
-•	Joan  - Treasurer’s Report with the Budget for 2022-3. 
-•	Delinquencies (Hardships)
-•	Penalties
-•	Funds Available for Dock Maintenance, Mailboxes 
+•	Joan provided the Treasurer’s Report (Attachment 2) 
+•	We have $36K on hand and are solvent. Funds are available to execute Dock Maintenance and Mailbox expansion.
+•	There are nearly $6K in delinquencies. Joan and Dave to follow up. Reminders will be sent by Doug. House or lot sale requires full payment of all dues owed at the time of the sale.
 
 Current Business
 
-1.	Covenants Ballots: 48 Ballots received, need 64 yes votes to change anything. 
+1.	Covenants Ballots: 48 ballots received, need 64 yes votes to change anything.
+•	The reason for the proposed covenant modifications was to revert back to Spotsylvania Law where appropriate to make enforcement possible. Many of the clauses are outdated and have been superceded by modern construction methods. Many members are not now in compliance. 
+•	Terry believes the state law governing HOAs allows us to ask a judge for relief in case of dire circumstances.
+•	Dave volunteered to go to houses and canvass for votes. We will consider the possibility that provision of a paid return envelope will be used to get votes submitted. Votes that are not received cannot be counted in support of changes. 
 
-2.	Docks and Common Area: Docks: Status
+2.	Docks and Common Area: Docks:
+
+•	Dave does inspections in winter every year
+•	The situation has not changed – Damaged boards on the main dock need to be replaced regularly. 
+•	Slip stringers are owned by individual members, not the association. Missing or damaged stringers need to be fixed by members. Neutral colors are recommended for stringers. Removal of stringers is an option if no corrective actions are taken. Notice of needed stringer work will be added to annual mailing
+•	The agreed strategy right now is to continue main dock maintenance ($1000-$2000/ year) as necessary
+•	Terry: Marine grade varnish should be used
+•	Joan: Floating Docks are awkward but possible when total replacement is required
+•	Picnic table maintenance and cleaning needs to be done (can’t put pump at Lake, no power)
+
 
 3.	Entrance Maintenance
+•	Pam has retired from gardening
+•	We need volunteers to maintain the area 
+•	In the meantime, Joan/Cathy will do emergency maintenance.
 
-4.	Photovoltaic (solar cell) installation
+4.	Photovoltaic (solar cell) installation; 
+•	Dave checked with lawyer and there is nothing board can do to add restrictions. It is expected that solar cells will become the norm in the future.
 
-5.	AirB&B’s
-County restrictions
-Payments
-Desired outcome
-            
+5.	Short term rentals (AirB&B, VRBO, etc)
+•	There are at least 5 companies managing short term rentals in the area. 
+•	Dave checked with our lawyer and there is not a lot we can do to restrict the practice given the wording in the covenants and county law, which does not classify rentals as a business. There are no county restrictions beyond illegal nuisance limitations. Our only option is restriction of the common area for owners not in good standing with the association.
+•	Our lawyer wrote up a form which could be filled out. Still needs work 
+Possibilities: 
+•	Most important – need communication with lot owners who rent lots to identify all rental managers and name all visitors to site. Liability releases will be needed.
+•	Every rental could be charged e.g. $100 ($50 renting+$50 for common area) or larger annual fee. 
+•	Joan is concerned that, based on past experience, trying to collect special fees will be difficult to control. 
+
 6.	Mailbox Area
+•	Joan reported we are down to a single, extra mailbox.
+•	Mailbox roof replacement is planned. Cathy will obtain prices for boxes and roof expansion
+•	Lots 1,2,3,4 are on Route 719 (as is Dave’s house) and will have mailboxes on street – not included in community boxes  
+•	Mailbox Project scope: 
+o	Replace/expand roof metal and roof joists.
+o	Expand mailbox area and remove trees as necessary to allow space for more boxes (both packages and mail)
+o	Add boxes
+o	Best guess cost about $8000
 
-7.	Buoys
+7.	Buoys  
+•	Two new Buoys have been added on our side of the lake
+•	Governors Point has agreed to maintain the hazard buoy on far side.
 
 8.	Mowing
+•	Neighborhood mowing costs $300 once per month Common area is now mowed twice per month($150 each time). The president was given authority by the Board to authorize additional mowing when needed
+•	Reminders about removing obstructions to mowing will continue
 
 9.	Cameras
-
+•	The location of cameras is critical. We have had at least one incident of gas theft from boats. Also, beer cans have been tossed into boats.
+•	Rex can put in a pole and work with Dave to install cameras (one on each dock) which are previously approved
+	
 10.	 Drainage
+•	VDOT will be contacted to fix culverts damaged by the tree work this spring 
 
-11.	 Trash Cans
+11.	Trash Cans
+•	Visual issue (particularly out front). Remove cans except on trash days
+•	Issue will be included in the annual mailing 
 
 New Business
 
-Adjournment
+1.	Dues increase to $300/yr vs $200 is competitive, but still less than neighboring communities.
+2.	Increase will be reconsidered at the Spring Board Meeting. Voting, if necessary, will take place in May.
+3.	Second ramp is not usable – We will review water depth issue. Defer decision on replacement until later meeting.
+4.	Friendly, polite direct contact between neighbors on lot to lot issues is encouraged. If a nuisance exceeds legal limits, local police should be called. The Board has little authority and should not be brought in. 
+5.	Thanks to Dave and Rex for maintenance of the flagpole area 
+
+
+ 
 
 
 ## May 15, 2022
