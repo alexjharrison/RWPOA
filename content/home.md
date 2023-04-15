@@ -30,104 +30,109 @@ Send suggested changes or new posts to Joan Harrison at Joanhar@gmail.com
 > Orange, Virginia  22960
 
 ---
-## October 1, 2022
-RWPOA Fall Board Meeting Notes
+## April 8, 2023
+RWPOA 4-8-23 Board Meeting Notes
+		
+	A Rolling Woods Property Owners Association Board Meeting was held on Saturday April 8, 2023 at President David Loving’s house. In attendance were President Dave Loving, Treasurer Joan Harrison, Secretary Doug Harrison, and Board Members Terry Thornton and Millie Miller. Vice President Cathy Hillyard and Board Member Kyle Bennet were absent.
+
+	The purpose of the meeting was to prepare for the May 6 Annual Membership Meeting. 
+
+Board Elections
+
+•	We currently have 7 board members and could use two more members to complete the board.
+•	Dave, Kyle and Terry have indicated they will run again. Doug and Joan have indicated they are looking for replacements after holding their positions for 12+ years but are willing to run again. 
+•	Dave will follow up on addition/ replacement possibilities for the May Meeting. 
+
+Covenants
+
+•	Three years ago, the Board submitted a proposed update to the covenants with the intent to remove unnecessary restrictions (which are virtually unenforceable anyway). 
+•	Ballots were included in the annual Mailing for those who had not yet responded. 
+•	Only active members (those who are up to date on dues payments) are eligible to participate.  We have been informed by our lawyer that 2/3 of active members must vote in favor of the changes to affect the revision of covenants. The Board believes we have adequate support for the revisions. Dave will meet with our lawyer to confirm that we have followed the Covenant revision regulations laid out in the covenants and in county statutes. 
+•	We have targeted the end of 2023 to complete this activity.   
 
 
-October 1, 2022 10am
+Dues 
+
+•	Joan provided a Treasurer’s Report as shown in Attachment I. Since interest rates have finally risen, we have invested in interest bearing Certificates of Deposit and bank accounts to maximize return. These are tabulated in the report. 
+•	Emails have been sent to all delinquent members requesting that dues be paid in full. Our dues are far less than comparable HOA’s in the area, primarily because we rely on volunteers to maintain the Association. As provided for in the by-laws, a $25 late fee is assessed for payment received after the Annual Meeting.  
+•	We have been informed that we should maintain funding available to repair and maintain Association capital assets (docks and mailboxes) without the need for a special assessment. 
+•	Dock replacement is estimated at a minimum of $150,000, which we do not now have. The current plan is to continue to repair docks as necessary out of current funds (see below). 
+•	In order to build upon available funds, Dave has proposed a plan to increase dues by $50 to $250/year. This will be discussed at the Annual Meeting. The issue will be reopened annually as needs become clearer.    
+
+Short Term Rentals (David)
+
+•	Neighborhood facilities are being used by short term renters. Special means of covering RWPOA costs were discussed. The possibility that an annual fee be charged for AirBnb or Vrbq sites has Board support. The appropriate amount for 2024 will be discussed at the Annual Meeting. 
+
+Mailboxes
+
+•	According to our postman, we are now out of available boxes.
+•	On Nov 18, Dave, Doug, and Joan met with Orange Postmaster, David Hogsten, and agreed to the following to expand the number of mailboxes available at the community entrance.
+o	We would provide and install additional boxes to be transferred to USPS ownership to meet future needs of the community.
+o	Doug provided a complete list of mailbox addresses to be used on November 19. 
+o	To simplify management and delivery, each lot in Rolling Woods (excluding those on Days Bridge Road which will have direct delivery) would be assigned a box to be placed in order of addresses to assist future mail carriers in accurate delivery of the mail. 
+o	Dave acquired and installed, at a very low cost, additional mailboxes to meet our current and future needs.
+
+•	A new postmaster was assigned. Local postmasters have significant authority and the new postmaster decided not to progress our plan. The USPS will continue to own and manage the existing boxes. The new  boxes are our responsibility. Delivery slots will not be changed. 
+•	The USPS will continue to provide new keys to the old boxes at a cost.
+•	The RWPOA will own and manage the new boxes. Two keys will be provided to members at a cost of $100.
+•	The new boxes extend slightly beyond the roof currently in place. There is also storm damage that needs repair. Dave will design and execute a project to expand and repair the roof. Cost is estimated at $2000. 
+•	Our postman, Bruce, is a real asset and looks out for our interests. We’ll attempt to complete the mailbox project while he is still our primary contact. 
 
 
-The Board Meeting was held on Saturday October 1 at 10 AM. President David Loving presided. 
+Common Area 
 
-Attendance
-•	The meeting was held (due to rain) at the house of Terry and Pam Thornton (7309 Hidden Brook Road). Many thanks to Terry and Pam for hosting.
-•	Six Board members and 8 additional members attended. See Attachment 1
+•	Dock repairs have been undertaken continuously. 
+•	The board continues to review options to replace the decking in the future with polymeric material (longer lifespan). 
+•	This program will be a major investment. We obtained an estimate of a dock replacement project, and it totaled at least $150,000, so the project will not be undertaken until we have saved enough from dues to pay for the project and will avoid a special assessment, if possible.
+•	A notice was sent in the Annual Mailing identifying those slips requiring Maintenance work. Remember, the dock is owned by the Association. The stringers are the responsibility of the slip owners. Among those identified as needing maintenance is one owned by the Association. Dave will attend to the problem.     
 
-Board Membership
+Mowing
 
-•	There are currently 7 Board members. The maximum is nine. We continue to solicit volunteers for the Board. 
-•	No volunteers came forward 
+•	The lawn mowing contract has been quite successful since 2018. The contractor, Kenny Snow, provides the service at a very reasonable price.
 
-Treasurer’s Report 
+Annual Meeting
 
-•	Joan provided the Treasurer’s Report (Attachment 2) 
-•	We have $36K on hand and are solvent. Funds are available to execute Dock Maintenance and Mailbox expansion.
-•	There are nearly $6K in delinquencies. Joan and Dave to follow up. Reminders will be sent by Doug. House or lot sale requires full payment of all dues owed at the time of the sale.
-
-Current Business
-
-1.	Covenants Ballots: 48 ballots received, need 64 yes votes to change anything.
-•	The reason for the proposed covenant modifications was to revert back to Spotsylvania Law where appropriate to make enforcement possible. Many of the clauses are outdated and have been superceded by modern construction methods. Many members are not now in compliance. 
-•	Terry believes the state law governing HOAs allows us to ask a judge for relief in case of dire circumstances.
-•	Dave volunteered to go to houses and canvass for votes. We will consider the possibility that provision of a paid return envelope will be used to get votes submitted. Votes that are not received cannot be counted in support of changes. 
-
-2.	Docks and Common Area: Docks:
-
-•	Dave does inspections in winter every year
-•	The situation has not changed – Damaged boards on the main dock need to be replaced regularly. 
-•	Slip stringers are owned by individual members, not the association. Missing or damaged stringers need to be fixed by members. Neutral colors are recommended for stringers. Removal of stringers is an option if no corrective actions are taken. Notice of needed stringer work will be added to annual mailing
-•	The agreed strategy right now is to continue main dock maintenance ($1000-$2000/ year) as necessary
-•	Terry: Marine grade varnish should be used
-•	Joan: Floating Docks are awkward but possible when total replacement is required
-•	Picnic table maintenance and cleaning needs to be done (can’t put pump at Lake, no power)
-
-
-3.	Entrance Maintenance
-•	Pam has retired from gardening
-•	We need volunteers to maintain the area 
-•	In the meantime, Joan/Cathy will do emergency maintenance.
-
-4.	Photovoltaic (solar cell) installation; 
-•	Dave checked with lawyer and there is nothing board can do to add restrictions. It is expected that solar cells will become the norm in the future.
-
-5.	Short term rentals (AirB&B, VRBO, etc)
-•	There are at least 5 companies managing short term rentals in the area. 
-•	Dave checked with our lawyer and there is not a lot we can do to restrict the practice given the wording in the covenants and county law, which does not classify rentals as a business. There are no county restrictions beyond illegal nuisance limitations. Our only option is restriction of the common area for owners not in good standing with the association.
-•	Our lawyer wrote up a form which could be filled out. Still needs work 
-Possibilities: 
-•	Most important – need communication with lot owners who rent lots to identify all rental managers and name all visitors to site. Liability releases will be needed.
-•	Every rental could be charged e.g. $100 ($50 renting+$50 for common area) or larger annual fee. 
-•	Joan is concerned that, based on past experience, trying to collect special fees will be difficult to control. 
-
-6.	Mailbox Area
-•	Joan reported we are down to a single, extra mailbox.
-•	Mailbox roof replacement is planned. Cathy will obtain prices for boxes and roof expansion
-•	Lots 1,2,3,4 are on Route 719 (as is Dave’s house) and will have mailboxes on street – not included in community boxes  
-•	Mailbox Project scope: 
-o	Replace/expand roof metal and roof joists.
-o	Expand mailbox area and remove trees as necessary to allow space for more boxes (both packages and mail)
-o	Add boxes
-o	Best guess cost about $8000
-
-7.	Buoys  
-•	Two new Buoys have been added on our side of the lake
-•	Governors Point has agreed to maintain the hazard buoy on far side.
-
-8.	Mowing
-•	Neighborhood mowing costs $300 once per month Common area is now mowed twice per month($150 each time). The president was given authority by the Board to authorize additional mowing when needed
-•	Reminders about removing obstructions to mowing will continue
-
-9.	Cameras
-•	The location of cameras is critical. We have had at least one incident of gas theft from boats. Also, beer cans have been tossed into boats.
-•	Rex can put in a pole and work with Dave to install cameras (one on each dock) which are previously approved
-	
-10.	 Drainage
-•	VDOT will be contacted to fix culverts damaged by the tree work this spring 
-
-11.	Trash Cans
-•	Visual issue (particularly out front). Remove cans except on trash days
-•	Issue will be included in the annual mailing 
-
-New Business
-
-1.	Dues increase to $300/yr vs $200 is competitive, but still less than neighboring communities.
-2.	Increase will be reconsidered at the Spring Board Meeting. Voting, if necessary, will take place in May.
-3.	Second ramp is not usable – We will review water depth issue. Defer decision on replacement until later meeting.
-4.	Friendly, polite direct contact between neighbors on lot to lot issues is encouraged. If a nuisance exceeds legal limits, local police should be called. The Board has little authority and should not be brought in. 
-5.	Thanks to Dave and Rex for maintenance of the flagpole area 
-
-
+•	As has been the case in past, the Association will provide fried chicken, drinks and paper products at the meeting, scheduled for May 6, 11 AM in the Common Area. Rain location is Harrison house at 7305 Hidden Brook Road. 
+•	We request that additional food be provided in covered dishes by the membership. 
  
+                                              Attachment I
+
+Treasurers Report as of April 1, 2023 	
+	
+ General Fund Balance Checking Account as of 3/27/23 	$5,243.68
+	
+ Plus Total Credits 	$11,970.00
+	
+ Total Expenditures 	$40,192.44
+	
+ ($20000 CD  $20000 money market) 	
+	
+ General Fund Balance as of April 1, 2023 	$5,243.68
+	
+ Money market fund 	$20,000.00
+	
+ Reserve fund  (CD) 	$20,000.00
+	
+	
+	
+	
+ Current Fund Status from January 9th through April 1, 2023 	
+	
+ General Fund Balance as of April 1, 2023 	$5,243.68
+ Money Market 	$20,000.00
+ Reserve fund  (CD) 	$20,000.00
+	
+ Outstanding Dues - Prior Year  	$5,225.00
+ Outstanding Dues - Current  Year 	$7,450.00
+	
+ Current Total Funds  	$25,243.68
+	
+ Total Anticipated Funds  	$37,918.68
+	
+ Total members late on dues 	9
+ Total members not paid this year 	21
+
+
 
 
 ## May 15, 2022
